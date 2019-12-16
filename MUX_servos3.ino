@@ -1,5 +1,5 @@
 // Servo Multiplexer
-// RK 1.11.2019  V2
+// RK 15.12.2019  V3
 // Umschaltung ohne Signal dauert länger - ist egal, weil dann sowieso was gröber schief läuft
 // Interrupts
 
